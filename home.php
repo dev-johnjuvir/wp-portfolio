@@ -1,2 +1,4 @@
 <?php /* Template Name: Portfolio Home */ ?>
-asdjakjsd
+<?php get_header('home'); ?>
+
+sasdasd
